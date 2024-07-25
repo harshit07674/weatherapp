@@ -7,7 +7,7 @@ about diffrent cities and can get weather data about that city.It uses openweath
 
 Requirements :-
 
-Android studio last version
+Android studio latest version
 JDK 17
 Android SDK 34
 Supports API Level +21
