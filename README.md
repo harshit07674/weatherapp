@@ -1,16 +1,32 @@
-# weather
+Brief Introduction :-
 
-A new Flutter project.
+It is a simple single screen flutter based mobile app project which is used to get realtime weather data such as 
+temprature, weather forecast, humidity, etc about a particular city and display it to the user and user can also search 
+about diffrent cities and can get weather data about that city.It uses openweathermap api to get weather data.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Requirements :-
 
-A few resources to get you started if this is your first Flutter project:
+Android studio last version
+JDK 17
+Android SDK 34
+Supports API Level +21
+Material Components 1.10.0
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Highlights :-
+
+Use OpenWeatherMap API
+Use Material design Components
+Changes Background on the basis of weather forecast such as mist, rain, etc
+important weather data such as temprature,minimum temprature, maximum temprature, humidity, wind speed, cloudiness is given in a easy to understand manner
+
+
+future scope :-
+
+can add more data about surrounding such as sunset time, sunrise time, AQI measure, etc
+can add a local database so that user can save weather data of particular day and time
+can update user about weather alerts given by local government agencies regarding ay drastic weather or environmental emergency 
+
+
+
